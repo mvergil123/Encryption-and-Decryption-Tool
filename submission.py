@@ -1,9 +1,3 @@
-#   Mike Vergil
-#   CSCI 128 – Section L
-#   Assessment 9
-#   References: w3schools.com
-#   Time: 4 hours
-
 import string
 
 def encrypt(phrase, number):
